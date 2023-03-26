@@ -18,5 +18,5 @@
 
 ## 구현 이미지
 
-<img width="10%" src="https://user-images.githubusercontent.com/104492622/227762280-001e043f-9897-442f-aa77-746e91c8aa73.png"/>
+<img width="100%" src="https://user-images.githubusercontent.com/104492622/227762280-001e043f-9897-442f-aa77-746e91c8aa73.png"/>
 
