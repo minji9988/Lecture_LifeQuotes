@@ -18,5 +18,6 @@
 
 ## 구현 이미지
 
-<img width="50%" src="https://user-images.githubusercontent.com/104492622/227762280-001e043f-9897-442f-aa77-746e91c8aa73.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/104492622/227762280-001e043f-9897-442f-aa77-746e91c8aa73.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/104492622/227762390-309e80f6-3c04-4db6-9eaa-1fb5316ab2f0.png"/>
 
